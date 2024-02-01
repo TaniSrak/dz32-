@@ -3,7 +3,7 @@
 
 class Animal
 {
-protected:
+protected: //дкопахщтвам
 	std::string name;
 	int age; 
 	int weight;
